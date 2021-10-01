@@ -1,0 +1,4 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: ExercicioURI1003, Configuração: Debug Any CPU ------
+1>ExercicioURI1003 -> C:\Users\hiury\OneDrive\Documentos\CURSOS DIVERSOS\CURSO C# NELO ALVES - UDEMY\CURSO C# COMPLETO\EXERCICIOS\ExercicioURI1003\ExercicioURI1003\bin\Debug\net5.0\ExercicioURI1003.dll
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
